@@ -2,4 +2,5 @@ div {
   column-count: 2;
   column-gap: 20px;
   column-span: all;
+  padding: 20px;
 }
