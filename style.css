@@ -1,23 +1,27 @@
 body {
-  background-color: #FAE5D3;
+    background-color: #FAE5D3;
 }
-
+  
 h1 {
-  text-align: center;
-  color: #E74C3C;
+    text-align: center;
+    color: #E74C3C;
 }
 
 h2 {
-  text-align: center;
-  color: #E67E22;
+    text-align: center;
+    color: #E67E22;
 }
 
 div {
-  column-count: 2;
-  column-gap: 20px;
-  column-span: all;
-  padding: 20px;
-  column-width: 100px;
-  background-color: #D35400;
-  color: #FAE5D3;
+    column-count: 2;
+    column-gap: 20px;
+    column-span: all;
+    padding: 20px;
+    column-width: 100px;
+    background-color: #D35400;
+    color: #FAE5D3;
+    text-align: center;
+    font-size: 16px;
+    column-rule-width: 3px;
+    column-rule-color: #E59866;
 }
