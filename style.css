@@ -1,7 +1,23 @@
+body {
+  background-color: #FAE5D3;
+}
+
+h1 {
+  text-align: center;
+  color: #E74C3C;
+}
+
+h2 {
+  text-align: center;
+  color: #E67E22;
+}
+
 div {
   column-count: 2;
   column-gap: 20px;
   column-span: all;
   padding: 20px;
   column-width: 100px;
+  background-color: #D35400;
+  color: #FAE5D3;
 }
