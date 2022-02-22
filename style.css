@@ -3,4 +3,5 @@ div {
   column-gap: 20px;
   column-span: all;
   padding: 20px;
+  column-width: 100px;
 }
